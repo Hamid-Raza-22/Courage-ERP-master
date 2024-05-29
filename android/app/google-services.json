@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298934362650",
+    "project_id": "courage-erp",
+    "storage_bucket": "courage-erp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298934362650:android:c1bb7261cdf1a17424a7a3",
+        "android_client_info": {
+          "package_name": "com.aafdev1.my_loc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAUQBD6huI4CtOaPx8RnlDW2Ep8BEIuZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
